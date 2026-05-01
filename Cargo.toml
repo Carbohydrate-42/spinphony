@@ -1,0 +1,9 @@
+[package]
+name = "spinphony"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+defmt = "1.0.1"
+libm = "0.2.16"
